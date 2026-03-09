@@ -16,7 +16,7 @@ Right now I'm learning Mandarin. 你好.
 
 ## What I'm Working On
 
-🤖 **[N.A.T.S.U.M.E.](https://github.com/JustFaizan/Project-N.A.T.S.U.M.E)** — A welfare robot for resource-constrained hospitals. No LiDAR, no cloud, no maps. Just vision, geometry, and the conviction that autonomous robotics should work for the hospitals that need it most.
+🤖 **[N.A.T.S.U.M.E.](https://github.com/JustFaizan/Project-N.A.T.S.U.M.E.)** — A welfare robot for resource-constrained hospitals. No LiDAR, no cloud, no maps. Just vision, geometry, and the conviction that autonomous robotics should work for the hospitals that need it most.
 
 ⚙️ **[Eco-Twin](https://github.com/JustFaizan/Eco-Twin)** — Industrial predictive maintenance running entirely on a 520 KB microcontroller. Because most factories don't have cloud budgets.
 
