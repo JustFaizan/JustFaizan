@@ -16,9 +16,9 @@ Right now I'm learning Mandarin. 你好.
 
 ## What I'm Working On
 
-🤖 **[N.A.T.S.U.M.E.](https://github.com/JustFaizan/project-natsume)** — A welfare robot for resource-constrained hospitals. No LiDAR, no cloud, no maps. Just vision, geometry, and the conviction that autonomous robotics should work for the hospitals that need it most.
+🤖 **[N.A.T.S.U.M.E.](https://github.com/JustFaizan/Project-N.A.T.S.U.M.E)** — A welfare robot for resource-constrained hospitals. No LiDAR, no cloud, no maps. Just vision, geometry, and the conviction that autonomous robotics should work for the hospitals that need it most.
 
-⚙️ **[Eco-Twin](https://github.com/JustFaizan/eco-twin)** — Industrial predictive maintenance running entirely on a 520 KB microcontroller. Because most factories don't have cloud budgets.
+⚙️ **[Eco-Twin](https://github.com/JustFaizan/Eco-Twin)** — Industrial predictive maintenance running entirely on a 520 KB microcontroller. Because most factories don't have cloud budgets.
 
 📄 **IEEE SPAC-AID 2026** — Writing up Eco-Twin for publication. First paper incoming.
 
@@ -59,14 +59,6 @@ Learn             →  Currently: Mandarin 🀄 | Always: Something new
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=JustFaizan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=JustFaizan&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustFaizan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
