@@ -20,8 +20,6 @@ Right now I'm learning Mandarin. 你好.
 
 ⚙️ **[Eco-Twin](https://github.com/JustFaizan/Eco-Twin)** — Industrial predictive maintenance running entirely on a 520 KB microcontroller. Because most factories don't have cloud budgets.
 
-📄 **IEEE SPAC-AID 2026** — Writing up Eco-Twin for publication. First paper incoming.
-
 ---
 
 ## What I Do
